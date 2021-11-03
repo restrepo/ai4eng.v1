@@ -6,4 +6,4 @@ For full interactive content access
 
 ## [https://rramosp.github.io/ai4eng.v1](https://rramosp.github.io/ai4eng.v1)
 
-Force main chage to active Actions
+Force main change to active Actions
